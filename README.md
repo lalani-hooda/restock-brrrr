@@ -13,7 +13,7 @@ To run restock-brrrr you will need:
 _Clone the repository or checkout with subversion to get a copy of restock-brrrr_
 
 ```bash
-$ pip install -r requirements.txt
+$ pip3 install -r requirements.txt
 ```
 
 ### Usage
